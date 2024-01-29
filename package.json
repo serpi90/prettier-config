@@ -1,0 +1,10 @@
+{
+  "name": "@serpi90/prettier-config",
+  "version": "1.0.0",
+  "description": "Custom Prettier preset",
+  "main": "index.json",
+  "author": {
+    "name": "Julián Maestri"
+  },
+  "license": "MIT"
+}
